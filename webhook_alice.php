@@ -3,8 +3,8 @@
   include_once 'webhook_class.php';
   include_once 'send_telegram.php';
 
-  $tg_bot_token = "Your_telegram_bot_token";
-  $tg_user_id = "Your_telegram_chat_id";
+  $tg_bot_token = "7990623036:AAFk4cH7bd5GTV2yJyMQ5aOPGCA1v0_KHnQ";
+  $tg_user_id = "1321800342";
 
 
 
